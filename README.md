@@ -1,3 +1,6 @@
-itryt00hardAPI
+itryt00hardAPI 
 
-A powerful, script execution API for Roblox, made for custom executors.
+is a powerful exploiting DLL that uses xeno.dll as an injector for Roblox game modification. 
+Built for maximum performance and reliability with support for both .NET Framework and .NET 8.0.
+
+Made by Filip343Filip 😉
